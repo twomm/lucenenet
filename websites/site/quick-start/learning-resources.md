@@ -55,7 +55,7 @@ StackOverflow is a popular programmer question and answer website.  Both Lucene 
 
 One great way to learn about Lucene.NET is to read the [most upvoted Lucene.NET questions](https://stackoverflow.com/questions/tagged/lucene.net?sort=MostVotes) StackOverflow is also a great place to ask questions about Lucene.NET>
 
-Additionally you can read the [most upvoted Lucene questions](https://stackoverflow.com/questions/tagged/lucene.net?sort=MostVotes) on StackOverflow.  Most of these questions and answers will apply to Lucene 4.8 but be aware that some may not if they are for related to features that came after version 4.8.
+Additionally you can read the [most upvoted Lucene questions](https://stackoverflow.com/questions/tagged/lucene?sort=MostVotes) on StackOverflow.  Most of these questions and answers will apply to Lucene 4.8 but be aware that some may not if they are for related to features that came after version 4.8.
 
 > [!TIP]
 > StackOverflow is a great place to post questions about Lucene.NET.  When you post questions there it's important to tag the question with both a `lucene.net` tag and a `lucene` tag if the question doesn't specifically pertain to the .NET platform.  Having both tags will often result in a faster response.
